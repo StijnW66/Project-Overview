@@ -3,7 +3,7 @@
 ## Personal projects
 Name | Programming Language / Technologies | Image
 --- | --- | ---
-[Remote controlled lamp]() | C/C++, Java, Python, SQL, Webserver, Database, PCB design, Embedded Systems (Raspberry pi, ESP32) |
+[Remote controlled lamp](https://github.com/StijnW66/lamp-system) | C/C++, Java, Python, SQL, Webserver, Database, PCB design, Embedded Systems (Raspberry pi, ESP32) |
 [Sound reactive Led Strip]() | Electrical Engineering, PCB design |
 
 
