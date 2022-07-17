@@ -4,7 +4,7 @@ This github repository serves as an overview to my projects. Click on the name i
 ## Personal projects
 Name | Programming Language / Technologies | Image
 --- | --- | ---
-[Remote controlled lamp](https://github.com/StijnW66/lamp-system) | C/C++, Java, Python, SQL, Webserver, Database, PCB design, Embedded Systems (Raspberry pi, ESP32) | <img src="./Images/Lamp-system.png" width="200" />
+[Remote controlled lamp](https://github.com/StijnW66/lamp-system) | C/C++, Java, Python, SQL, Webserver (RESTful API), Database, PCB design, Embedded Systems (Raspberry pi, ESP32) | <img src="./Images/Lamp-system.png" width="200" />
 [Sound reactive Led Strip](https://oshwlab.com/StijnW66/music_led) | Electrical Engineering, PCB design | <img src="./Images/Music_led.jpeg" width="200" />
 
 
