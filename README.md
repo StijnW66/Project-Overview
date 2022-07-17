@@ -1,4 +1,5 @@
 # Project-Overview
+This github repository serves as an overview to my projects. Click on the name in the tables to go to the project specific page (often a GitHub repository). These tables will be updated when more projects are completed.
 
 ## Personal projects
 Name | Programming Language / Technologies | Image
@@ -17,10 +18,12 @@ Name | Programming Language / Technologies | Image
 [Collaborative AI: Block World For Teams](https://github.com/yuanzexiong/CSE3210-BW4T) | Python, AI | <img src="./Images/BW4T.png" width="200" />
 [Collaborative AI: Negotiating Agents](https://github.com/yuanzexiong/CSE3210-Negotiation) | Python, AI | <img src="./Images/linear.png" width="200">
 
-## Additional experience
-[Rust]
+## Additional experiences/interests
 [OpenGL]
 [TinyML]
+[Rust]
 [Stm32]
 
-## Project ideass
+## Future project ideas
+- Write custom ws2812b driver
+- Create minimal stm32 PCBs
